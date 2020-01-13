@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Distance</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="msg_loading_map">Adding location marker, please wait&#8230;</string>
+    <string name="msg_distance_post_success">Shortest distance updated</string>
+
+    <string name="temp_msg_shortest_distance">Shortest distance is %f</string>
+
+    <string name="err_distance_post_failure">Could not update distance to server</string>
+    <string name="err_something_wrong">Something went wrong</string>
+    <string name="err_no_internet">Please check your Internet connection</string>
+</resources>
